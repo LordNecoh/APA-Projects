@@ -5,3 +5,7 @@ In each folder you can find a different project, with code and an eassay in ital
 All of the projects are about Algorythms with a randomic element which is usefull to make them more efficent or work at all.
 
 The first one (2.1) is about QuickSort and the benefits of having the pivot being chosen randomly, in fact such choice can keep the temporal complessity of the execution below O(n^2).
+
+The second one (7.1) is about the Byzantine Genrals problem and using a randomic component in order to find an accord or solve a stale.
+
+

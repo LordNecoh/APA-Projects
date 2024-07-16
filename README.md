@@ -6,6 +6,8 @@ All of the projects are about Algorythms with a randomic element which is useful
 
 The first one (2.1) is about QuickSort and the benefits of having the pivot being chosen randomly, in fact such choice can keep the temporal complessity of the execution below O(n^2).
 
-The second one (7.1) is about the Byzantine Genrals problem and using a randomic component in order to find an accord or solve a stale.
+The second one (7.1) is about the Byzantine Generals problem and using a randomic component in order to find an accord or solve a stale.
+
+The third one (9.1) is about using randomness to verify a matrix multiplication with a complessity of O(n^2) instead of O(n^3).
 
 
